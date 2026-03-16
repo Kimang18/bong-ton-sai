@@ -7,3 +7,6 @@ Develop Khmer Small Language Model
 - opensource data from cc100: `load_datasets("statmt/cc100", lang='km')`
 - opensource data from wikipedia: `load_datasets("wikimedia/wikipedia", "20231101.km")`
 - Data from Oscar: `load_dataset("oscar-corpus/OSCAR-2301", "km", streaming=True)`
+
+# Research and Info Collection
+- conversation with Gemini: https://gemini.google.com/share/a2be8a610c13
